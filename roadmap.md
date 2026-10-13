@@ -1,0 +1,3 @@
+- [ ] Build responsive inventory-management shell, route placeholders, and unique page metadata.
+- [ ] Add typed mock/REST API boundary, realistic sample data, and in-memory demo sign-in.
+- [ ] Add reusable secure data utilities/components and validate the central flows.
